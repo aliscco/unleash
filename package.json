@@ -87,7 +87,7 @@
     "memoizee": "^0.4.15",
     "mime": "^2.4.2",
     "moment": "^2.24.0",
-    "multer": "^1.4.1",
+    "multer": "^2.0.0",
     "mustache": "^4.1.0",
     "node-fetch": "^2.6.1",
     "nodemailer": "^6.5.0",
