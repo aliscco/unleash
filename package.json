@@ -64,7 +64,7 @@
   },
   "dependencies": {
     "async": "^3.1.1",
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "compression": "^1.7.4",
     "connect-session-knex": "^2.0.0",
     "cookie-parser": "^1.4.5",
@@ -116,7 +116,7 @@
     "@typescript-eslint/parser": "^4.22.0",
     "copyfiles": "^2.4.1",
     "coveralls": "^3.1.0",
-    "eslint": "^6.8.0",
+    "eslint": "^9.26.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-airbnb-typescript": "^12.3.1",
     "eslint-config-prettier": "^8.1.0",
